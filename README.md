@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/sauravsinha239" target="blank"><img src="https://img.shields.io/twitter/follow/sauravsinha239?logo=twitter&style=for-the-badge" alt="sauravsinha239" /></a> </p>
 
-- 🔭 I’m currently working on [none](Java)
+- 🔭 I’m currently working on [java](Java)
 
 - 🌱 I’m currently learning **Data Structer and Algoriths**
 
