@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Android](Flutter, firebase)
 
-- 🌱 I’m currently learning **Data Structer and Algoriths**
+- 🌱 I’m currently learning **Flutter SDK Dart **
 
 - 👯 I’m looking to collaborate on **flutter project**
 
