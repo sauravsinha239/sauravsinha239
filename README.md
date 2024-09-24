@@ -10,15 +10,15 @@
 
 <p align="left"> <a href="https://twitter.com/sauravsinha239" target="blank"><img src="https://img.shields.io/twitter/follow/sauravsinha239?logo=twitter&style=for-the-badge" alt="sauravsinha239" /></a> </p>
 
-- 🔭 I’m currently working on [Android](Kotlin)
+- 🔭 I’m currently working on [Android](Flutter, firebase)
 
 - 🌱 I’m currently learning **Data Structer and Algoriths**
 
-- 👯 I’m looking to collaborate on **java project**
+- 👯 I’m looking to collaborate on **flutter project**
 
 - 👨‍💻 All of my projects are available at [www.github.com/sauravsinha239](www.github.com/sauravsinha239)
 
-- 💬 Ask me about **dsa**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **sauravsinha239@gmail.com**
 - portfolios [https://sauravsinha239.github.io/portfolio/]
