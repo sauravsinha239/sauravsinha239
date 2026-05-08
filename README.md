@@ -22,7 +22,7 @@ Building scalable applications across mobile, backend, cloud & AI integrations.
 ## 🛠 Tech Stack
 
 ### Languages
-`C#` `JavaScript` `Dart` `SQL` `Java` `C++`
+`C#` `JavaScript` `Dart` `MSSQL` `Java` `C` `C++` `Python`
 
 ### Frontend
 `Flutter` `HTML` `CSS` `JavaScript` `React`
