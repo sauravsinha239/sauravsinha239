@@ -68,14 +68,6 @@ Built Android caller identification app with:
 
 ---
 
-### 🌐 Custom Browser
-Cross-platform browser built in Flutter featuring:
-- Download manager
-- Pause/Resume
-- Link update support
-
----
-
 ### 🤖 AI Chat Integration
 Integrated React + Node chatbot into legacy ASP.NET application
 
@@ -96,7 +88,7 @@ Integrated React + Node chatbot into legacy ASP.NET application
 ## 🌍 Connect With Me
 
 - GitHub: https://github.com/sauravsinha239
-- Portfolio: https://sauravsinha239.github.io/portfolio/
+- Portfolio: https://portfolio-sauravsinha239.netlify.app/
 - Resume: https://sauravsinha239.github.io/Resume/
 - LinkedIn: https://linkedin.com/in/sauravsinha239
 - Email: sauravsinha239@gmail.com
